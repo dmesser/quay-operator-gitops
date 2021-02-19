@@ -3,8 +3,4 @@ kind: QuayRegistry
 metadata:
   name: skynet
 spec:
-spec:
-  components:
-    - kind: clair
-      managed: false
   configBundleSecret: skynet-config-bundle
