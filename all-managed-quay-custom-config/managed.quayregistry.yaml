@@ -5,5 +5,5 @@ metadata:
 spec:
   components:
     - kind: clair
-      managed: false
+      managed: true
   configBundleSecret: skynet-config-bundle
